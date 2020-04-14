@@ -1,0 +1,1 @@
+Working on the tutorial how to connect local repository already created to the remote repository using smart git
